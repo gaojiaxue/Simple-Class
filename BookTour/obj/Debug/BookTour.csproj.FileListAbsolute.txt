@@ -1,0 +1,7 @@
+C:\SA文件\prof\BookTour\bin\Debug\BookTour.exe.config
+C:\SA文件\prof\BookTour\bin\Debug\BookTour.exe
+C:\SA文件\prof\BookTour\bin\Debug\BookTour.pdb
+C:\SA文件\prof\BookTour\obj\Debug\BookTour.csprojAssemblyReference.cache
+C:\SA文件\prof\BookTour\obj\Debug\BookTour.csproj.CoreCompileInputs.cache
+C:\SA文件\prof\BookTour\obj\Debug\BookTour.exe
+C:\SA文件\prof\BookTour\obj\Debug\BookTour.pdb
